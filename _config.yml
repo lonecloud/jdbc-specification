@@ -1,11 +1,10 @@
 theme: jekyll-theme-cayman
 links1:
-    - name:  序言
-      url: %E5%BA%8F%E8%A8%80.md
-      type: recent
-      external: false
-    - name:  第一章
-      url: %E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%AE%80%E4%BB%8B.md
-      type: recent
-      external: false
-   
+  - name:  序言
+    url:  序言.md
+    type: recent
+    external: false
+  - name:  第一章
+    url:  第一章 简介.md
+    type: recent
+    external: false
